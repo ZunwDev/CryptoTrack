@@ -310,8 +310,8 @@
     </div>
     <EntryButton {updateLoadingStore} />
   {/if}
-  <h1 class="mt-16 text-xl text-text dark:text-dark-text">
+  <!-- <h1 class="mt-16 text-xl text-text dark:text-dark-text">
     API for news stopped working for unknown reason. Sorry for inconvenience (It's going to be back once it's fixed on API side)
-  </h1>
+  </h1> -->
   <!-- <News {newsData} {socialNewsData} /> -->
 </section>
